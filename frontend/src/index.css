@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+a.active{
+  color: rgb(0, 0, 73)
+}
+
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+  overflow-x: hidden;
+}
